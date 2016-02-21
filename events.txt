@@ -1,0 +1,689 @@
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+---------
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Sickness has fallen upon you.
+Description:You caught the flu. Decrease your body attribute by 1.
+Effects:Body, -1
+
+Name:Success
+Description:You achieved an A+ on one of your assignments. Increase your school attribute by 1.
+Effects:School, 1
+
+Name:Run
+Description:It was a sunny day and you ran outdoors for 30 minutes. Increase your body and mind attributes by 1.
+Effects:Body, 1, Mind, 1
+
+Name:Party
+Description:On short notice, your friend brought you to a party and you met new people. Increase your social attribute by 2.
+Effects:Social, 2
+
+Name:JayWalking Ticket
+Description:You got caught jaywalking on the street by the police and then gave you a ticket. Decrease your money attribute by 2.
+Effects:Money, -2
+
+Name:Ramen
+Description:A new ramen restaurant opened, you and your friends decided to go there 
+for lunch. Increase your social and mind attribute by 1 and decrease 
+your money attribute by 1.
+Effects:Social, 1, Mind, 1, Money, -1
+
+Name:Pulling an all-nighter
+Description:You decided to not sleep the whole night to finish an assignment. 
+Decrease your body and mind attribute by 2.  
+Effects:Body, -2, Mind, -2
+
+Name:Deep sharing
+Description:You told your life story and your personal struggles to a close friend. 
+Increase your mind and social attributes by 2.
+Effects:Mind, 2, Social, 2
+
+Name:Skipped Breakfast
+Description:You woke up late and decided to skip breakfast so you would not be late 
+for class. Decrease your body attribute by 1. 
+Effects:Body, -1
+
+Name:At a Fair
+Description:Yesterday at a fair, you entered a draw and won a $25 gift certificate. Increase your money attribute by 1.
+Effects:Money, 1
+
+Name:Broken Laptop
+Description:This morning, you notice your laptop had not charged at all overnight. You must pay $50 to replace your broken laptop charger. Decrease your money attribute by 1.
+Effects:Money, -1
+
+Name:Caught a cold from the rain
+Description:You got caught in the rain walking home yesterday and woke up this morning with a cold. Decrease your body attribute by 1.
+Effects:Body, -1

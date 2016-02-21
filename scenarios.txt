@@ -1,0 +1,76 @@
+Name: Orientation
+Description: You received an email about orientation. The cost of registering for orientation is $75. 
+Option:Don't attend orientation.:N
+Option:Attend orientation and go to all their events.:Money,-1,Social,3,Body,-1
+Option:Attend orientation and go to most of their events.:Money,-1,Social,2
+END;;
+Name: Clubs Week
+Description:You are at a meeting hall and several clubs are recruiting for members and advertising for their club.
+Option:Walk past them and don't join a club.:N
+Option: You see a club that interests you and you decide to register for $5  and attend their orientation.:Money,-1,Social,1,Mind,1
+Option:You see several clubs that interests you and you talk to several people but you decide not to join a club.:Social,1
+END;;
+Name: Essay Due
+Description: You have an essay due in 5 days. What do you do?
+Option:Procrastinate by hanging out with your friends and start it on the day before it is due. You end up finishing the essay by pulling an all-nighter.:Mind,-1,Social,1
+Option:Start the essay early and pace yourselves so that you have a finished essay.:Mind,1
+Option:Instead of working on the essay, you work at a part-time job. You end up not handing in an essay.:Money,1,School,-1
+END;;
+Name: The Club
+Description:  You go to the club (a place where there is alcohol served , loud music, and people dancing) with your friends.  What do you do?
+Option:Stay with your friends the whole night and dance with them the whole night.:Mind,1,Body,1,Social,1,Money,-1
+Option:Stay with your friends the whole night and drink with them the whole night.:Mind,1,Body,-1,Social,2,Money,-2
+Option:Leave your friends and get as much phone numbers as you can from strangers.:Mind,1,Social,2,Money,-1
+END;;
+Name: Midterm
+Description: You have a midterm in 3 days. What do you do?
+Option: Start studying now and pace yourselves.:Mind,1,School,1
+Option:Study on the day before your midterm because you are swamped other assignments and duties. :School,1
+Option:Don't study for the midterm and hangout with friends.:Mind, 1,Social,1
+Option:Instead of studying for the midterm, you spend your time playing computer games by yourself. As a result of this, you lose sleep.:Body,-1, Mind, 1
+END;;
+Name: Friend's Birthday
+Description: It is your friend's birthday and she invites you to her party. What do you do?
+Option:Don't go to the party and buy her a present.:Social,1,Money,1
+Option: Go to party and don't get her anything.:Mind,1,Social,2
+Option:Go to the party and buy her a present.:Mind,1,Social,3,Money,-1
+Option: Don't go to the party and don't get her anything.  Just spend that time studying instead.:Social,-1,School,2
+END;;
+Name: Family visit
+Description: Your family is planning to visit you during Reading Week and bring lots of food and clothes. 
+Option:Tell them to not visit you because you are busy with midterms.:N
+Option:Tell them to drop the food and clothes at your place and you don't have time to spend with them.:Social,-1
+Option:Tell them to come and eat lunch with them.:Body,1,Social,1
+Option:Tell them to come and spend the whole day with them.:Body,2,Social,2
+END;;
+Name:  No more food!
+Description:  There is no more food in your fridge and you are hungry for dinner. What do you do?
+Option:Go do groceries and cook your own food.:Mind, 1,Body,1,Money, -1
+Option:Go do groceries and cook food with friends.:Mind,1,Body,1,Money,-1,Social,1
+Option:Go out with friends for dinner at a restaurant.:Mind,1,Money,-2,Social,2
+Option:Eat at the school cafeteria and study by yourself.:School,2,Money,-1
+END;;
+Name:Movie Night
+Description: Your friends are planning to see a movie tonight in the theatres. It costs $10. What do you do?
+Option: Don't go to the movie but study instead.:School,1
+Option: Go to the movie with your friends.:Social,1,Money,-1
+Option: Go out to eat with your friends and then see the movie with them.:Social,2,Money,-2
+END;;
+Name: Fight
+Description: Last week, you and a close friend got into an argument. You firmly stand by your position in the debate, and while it upsets you that you and your friend are not speaking, you also do not want to make the first move as you believe your friend will take that as acknowledgement that you were the one in the wrong. You are going to have to see your friend tomorrow no matter what as you are both attending an event in the afternoon.
+Option:Text your friend and apologize even though you still believe yourself to be in the right. It is worth it to have your argument resolved before you have to see each other tomorrow.:Social,2,Mind,-1
+Option:Steer clear your friend at the event tomorrow to avoid causing any sort of uncomfortable public conflict. You do not want to argue but are also not going to be the one to make the first move when your friend is the one who needs to apologize.:Social,1,Mind,1
+Option: Skip the event tomorrow. Go for a run instead to clear your head and work through your feelings about the argument. That way, when you and your friend do speak again, you will be able to have a calm conversation and make-up with them.:Mind,1,Body,1,Social,-1
+END;;
+Name:  Part time job
+Description:  Your part time job called and want to know if you would like to pick up a shift this afternoon as they have had another staff member call in sick. You do have a midterm tomorrow morning which, while you have studied, you do not yet feel entirely prepared for.
+Option:Take the shift. You mostly know the material and can always stay up late and to study a bit more. You should be able to do alright on the midterm tomorrow.:Mind, -1, Money,2
+Option:Apologize to your job and explain you have a midterm tomorrow you need to be studying for. Spend the evening at the library studying alone and go to bed early to get a good night’s sleep.: School,2
+Option:Tell your job that you cannot cover the shift tonight. You run into an old friend on your way to the library and spend most of the evening catching up with them before studying a little.:Social,1,School,-1
+END;;
+Name: Your crush approaches you
+Description:  Your crush approaches you and asks you out on a date on the day before your exam. What do you do?
+Option:Accept and go out with your crush.:Social,2,School,-1,Mind,1
+Option:Refuse and tell your crush we should be friends for now and that you need to concentrate on your exam.:Social,-1,School,1
+Option: Tell your crush that you would go out on a date with him or her after exams are done.:School,1,Social,1
+END;;
