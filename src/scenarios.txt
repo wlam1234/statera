@@ -65,7 +65,7 @@ END;;
 Name:  Part time job
 Description:  Your part time job called and want to know if you would like to pick up a shift this afternoon as they have had another staff member call in sick. You do have a midterm tomorrow morning which, while you have studied, you do not yet feel entirely prepared for.
 Option:Take the shift. You mostly know the material and can always stay up late and to study a bit more. You should be able to do alright on the midterm tomorrow.:Mind, -1, Money,2
-Option:Apologize to your job and explain you have a midterm tomorrow you need to be studying for. Spend the evening at the library studying alone and go to bed early to get a good night’s sleep.: School,2
+Option:Apologize to your job and explain you have a midterm tomorrow you need to be studying for. Spend the evening at the library studying alone and go to bed early to get a good nightâ€™s sleep.: School,2
 Option:Tell your job that you cannot cover the shift tonight. You run into an old friend on your way to the library and spend most of the evening catching up with them before studying a little.:Social,1,School,-1
 END;;
 Name: Your crush approaches you
